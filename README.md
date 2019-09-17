@@ -1,7 +1,7 @@
 <div dir="rtl">
 
 # slides
-رائه‌های من در آدرس [https://mamintoosi.github.io/slides](https://mamintoosi.github.io/slides/) قابل مشاهده است.
+ارائه‌های من در آدرس [https://mamintoosi.github.io/slides](https://mamintoosi.github.io/slides/) قابل مشاهده است.
 
 مطالب و سبک اسلاید برگرفته از 
 	<a href="https://github.com/mdda/deep-learning-workshop"> Martin Andrews </a>
