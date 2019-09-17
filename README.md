@@ -1,2 +1,16 @@
+<div dir="rtl">
+
 # slides
-ارائه‌های محمود امین‌طوسی
+پرزنت‌های من به زبان فارسی. لیست پرزنت‌ها در آدرس [https://mamintoosi.github.io/slides](https://mamintoosi.github.io/slides/) قابل مشاهده است.
+
+						مطالب و سبک اسلاید برگرفته از 
+							<a href="https://github.com/mdda/deep-learning-workshop"> Martin Andrews </a>
+							و
+							<a href="https://mamintoosi.github.io/slides/"> سعیدی‌فرد </a>
+							</p>
+                           
+*نکته* اگر می‌خواهید به صورت آفلاین از پرزنت‌ها استفاده کنید، در صفحه هر پرزنت، اسلاید آخر که وابستگی اینترنتی دارد را حذف کنید
+
+</div>
+
+`<section data-external="../../lib/info.html"> </section>`
